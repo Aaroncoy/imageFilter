@@ -1,0 +1,44 @@
+*{
+    margin:0; 
+    padding:0; 
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    background: #fff; 
+    font-family: sans-serif; 
+    
+}
+
+.container{
+    background: #fff; 
+    width: 95%; 
+    max-width: 1000px; 
+    margin:20px auto;    
+}
+
+.menu ul{
+    list-style: none;
+    width:100%; 
+    display: table; 
+}
+.menu ul li{
+    display: table-cell;
+    width: calc(30px * 5)
+
+}
+.menu ul li a {
+  text-decoration: none;
+    display: block; 
+    color: #fff; 
+    padding: 20px 0; 
+    text-align: center; 
+}
+
+.menu ul .Todos {background: #3691be;}
+.menu ul .Laptop {background: #106288;}
+.menu ul .Camera {background: #0b4661;}
+.menu ul .Smartphone {background: #0b4661;}
+.menu ul .Headphones {background: #093144;}
+
