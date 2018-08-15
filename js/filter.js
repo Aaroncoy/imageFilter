@@ -1,7 +1,7 @@
 (function () {
-    $(document).ready(function (e) {
-        e.preventDefault();
-        $(".btn-menu").click(function () {
+    $(document).ready(function () {
+        $(".btn-menu").click(function (e) {
+            e.preventDefault();
             var filtro = $(this).attr("data-filter");
 
             if (filtro == "Todos") {
