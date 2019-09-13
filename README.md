@@ -1,16 +1,16 @@
 This is an image filter using vanilla javascript and jquery 
 
 All Images  <br />
-![](../img/allPictures.png) <br />
+![](/img/allPictures.png) <br />
 
 Filtering by Headphones <br />
-![](../img/Headphones.png) 
+![](/img/Headphones.png) 
 
 Filtering by Smartphones <br />
-![](../img/smartphones.png) <br />
+![](/img/smartphones.png) <br />
 
 Filtering by Cameras  <br />
-![](../img/cameras.png)
+![](/img/cameras.png)
 
 Filtering by Laptops  <br />
-![](../img/laptops.png)
+![](/img/laptops.png)
